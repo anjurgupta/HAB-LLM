@@ -1,0 +1,28 @@
+{
+    "image_name": "img_294",
+    "analysis": {
+        "EnvironmentalConditions": {
+            "WaterType": "Saltwater",
+            "WaterBody": "Ocean",
+            "WaterClarity": "Unknown"
+        },
+        "AlgaeCharacteristics": {
+            "Color": "Red",
+            "GrowthForm": "Planktonic",
+            "Density": "Moderate"
+        },
+        "HumanImpact": "Moderate"
+    },
+    "assessment": {
+        "reason": " reddish hue in the ocean water"
+    },
+    "annotation": {
+        "format": "x1,y1,x2,y2",
+        "coordinates": [
+            2,
+            275,
+            641,
+            640
+        ]
+    }
+}

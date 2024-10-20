@@ -1,0 +1,28 @@
+{
+    "image_name": "img_285",
+    "analysis": {
+        "EnvironmentalConditions": {
+            "WaterType": "Freshwater",
+            "WaterBody": "Lake",
+            "WaterClarity": "Unknown"
+        },
+        "AlgaeCharacteristics": {
+            "Color": "Red",
+            "GrowthForm": "Planktonic",
+            "Density": "Dense"
+        },
+        "HumanImpact": "High"
+    },
+    "assessment": {
+        "reason": "intense red algal bloom in a lake that is clearly used for human activities,"
+    },
+    "annotation": {
+        "format": "x1,y1,x2,y2",
+        "coordinates": [
+            31,
+            142,
+            641,
+            641
+        ]
+    }
+}

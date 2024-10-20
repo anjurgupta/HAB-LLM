@@ -1,0 +1,28 @@
+{
+    "image_name": "img_276",
+    "analysis": {
+        "EnvironmentalConditions": {
+            "WaterType": "Saltwater",  // Based on the "Ocean"
+            "WaterBody": "Ocean",
+            "WaterClarity": "Unknown"
+        },
+        "AlgaeCharacteristics": {
+            "Color": "Green",
+            "GrowthForm": "Planktonic",
+            "Density": "Moderate"
+        },
+        "HumanImpact": "High"
+    },
+    "assessment": {
+        "reason": "The image shows a distinct green band of water along the coastline, indicating the presence of an algal bloom near a populated beach area."
+    },
+    "annotation": {
+        "format": "x1,y1,x2,y2",
+        "coordinates": [
+            1,
+            104,
+            581,
+            641
+        ]
+    }
+}

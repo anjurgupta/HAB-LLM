@@ -1,0 +1,28 @@
+{
+    "image_name": "img_297",
+    "analysis": {
+        "EnvironmentalConditions": {
+            "WaterType": "Saltwater",
+            "WaterBody": "Ocean",
+            "WaterClarity": "Unknown"
+        },
+        "AlgaeCharacteristics": {
+            "Color": "Brown",
+            "GrowthForm": "Mat-forming",
+            "Density": "Dense"
+        },
+        "HumanImpact": "low"
+    },
+    "assessment": {
+        "reason": "brown algal bloom in a coastal area"
+    },
+    "annotation": {
+        "format": "x1,y1,x2,y2",
+        "coordinates": [
+            19,
+            219,
+            641,
+            602
+        ]
+    }
+}

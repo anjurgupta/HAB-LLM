@@ -1,0 +1,28 @@
+{
+    "image_name": "img_272",
+    "analysis": {
+        "EnvironmentalConditions": {
+            "WaterType": "Freshwater",  // Adjusted based on the "River"
+            "WaterBody": "River",
+            "WaterClarity": "Unknown"
+        },
+        "AlgaeCharacteristics": {
+            "Color": "Green",
+            "GrowthForm": "Mat-forming",
+            "Density": "Dense"
+        },
+        "HumanImpact": "High"
+    },
+    "assessment": {
+        "reason": "The image shows a dense algal bloom in what it is a river or canal system, indicating significant human impact and high algae density."
+    },
+    "annotation": {
+        "format": "x1,y1,x2,y2",
+        "coordinates": [
+            2,
+            159,
+            641,
+            641
+        ]
+    }
+}

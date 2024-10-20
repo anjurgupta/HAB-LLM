@@ -1,0 +1,28 @@
+{
+    "image_name": "img_281",
+    "analysis": {
+        "EnvironmentalConditions": {
+            "WaterType": "Saltwater",
+            "WaterBody": "Ocean",
+            "WaterClarity": "Unknown"
+        },
+        "AlgaeCharacteristics": {
+            "Color": "Brown",
+            "GrowthForm": "Mat-forming",
+            "Density": "Moderate"
+        },
+        "HumanImpact": "Low"
+    },
+    "assessment": {
+        "reason": "localized algal bloom or accumulation, rather than a widespread event affecting a large area."
+    },
+    "annotation": {
+        "format": "x1,y1,x2,y2",
+        "coordinates": [
+            59,
+            135,
+            641,
+            637
+        ]
+    }
+}

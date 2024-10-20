@@ -1,0 +1,28 @@
+{
+    "image_name": "img_293",
+    "analysis": {
+        "EnvironmentalConditions": {
+            "WaterType": "Freshwater",
+            "WaterBody": "Lake",
+            "WaterClarity": "Unknown"
+        },
+        "AlgaeCharacteristics": {
+            "Color": "Green",
+            "GrowthForm": "Mat-forming",
+            "Density": "Dense"
+        },
+        "HumanImpact": "high"
+    },
+    "assessment": {
+        "reason": "dense mat of green algae in the lake"
+    },
+    "annotation": {
+        "format": "x1,y1,x2,y2",
+        "coordinates": [
+            4,
+            106,
+            640,
+            641
+        ]
+    }
+}

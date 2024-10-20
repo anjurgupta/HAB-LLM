@@ -1,0 +1,28 @@
+{
+    "image_name": "img_287",
+    "analysis": {
+        "EnvironmentalConditions": {
+            "WaterType": "Freshwater",
+            "WaterBody": "Lake",
+            "WaterClarity": "Unknown"
+        },
+        "AlgaeCharacteristics": {
+            "Color": "Green",
+            "GrowthForm": "Planktonic",
+            "Density": "Dense"
+        },
+        "HumanImpact": "high"
+    },
+    "assessment": {
+        "reason": "The image shows a significant algal bloom in what appears to be a lake or pond, "
+    },
+    "annotation": {
+        "format": "x1,y1,x2,y2",
+        "coordinates": [
+            113,
+            119,
+            641,
+            641
+        ]
+    }
+}

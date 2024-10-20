@@ -1,0 +1,28 @@
+{
+    "image_name": "img_271",
+    "analysis": {
+        "EnvironmentalConditions": {
+            "WaterType": "Saltwater",  // Adjusted based on the "Ocean" water body
+            "WaterBody": "Ocean",
+            "WaterClarity": "Unknown"
+        },
+        "AlgaeCharacteristics": {
+            "Color": "Red",
+            "GrowthForm": "Planktonic",
+            "Density": "Dense"
+        },
+        "HumanImpact": "High"
+    },
+    "assessment": {
+        "reason": "Dense red planktonic algae bloom in an ocean environment"
+    },
+    "annotation": {
+        "format": "x1,y1,x2,y2",
+        "coordinates": [
+            130,
+            1,
+            640,
+            640
+        ]
+    }
+}
