@@ -5,7 +5,9 @@
 </div>
 <img src="./img/abstract.jpg" alt="Project Banner" width="800">
 This repository contains data for the VLM-HAB dataset. 
+
 Paper link: Coming soon.  
+
 **By: Dr. Anju R. Gupta and Jamal Ansary**
 
 ## visual grouding (VG) using replicate
