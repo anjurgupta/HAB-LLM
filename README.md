@@ -3,17 +3,13 @@
 # **Harnessing Vision-Language Models for Improved Detection and Analysis of Harmful Algal Blooms (HAB)**
 
 </div>
-
 <img src="./img/abstract.jpg" alt="Project Banner" width="800">
-
-This repository contains data for the VLM-HAB dataset. All images are sized: 1000x1000.
-
+This repository contains data for the VLM-HAB dataset. 
 Paper link: Coming soon.  
 **By: Dr. Anju R. Gupta and Jamal Ansary**
 
-## Replicating Results
+## visual grouding (VG) using replicate
 
-### Using Replicate
 
 To reproduce our results using Replicate:
 
@@ -145,7 +141,7 @@ for image_name in os.listdir(image_dir):
 print("Processing complete. Results saved in the output directory.")
 ``` 
 
-# Google Gemini Implementation
+# Visual question answering (VQA) using  Gemini 
 
 
 To replicate our results using Google Gemini:
