@@ -5,7 +5,7 @@
 
 <img src="./img/abstract.jpg" alt="Project Banner" width="800">
 
-*This repository contains data and the code for replicating the results.  
+*This repository contains data and the code for replicating the results.*  
 </div>
 
 
