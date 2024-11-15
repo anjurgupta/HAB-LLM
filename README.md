@@ -1,17 +1,17 @@
-# VLM-HAB: Dataset or Vision Language Models
+# Harnessing Vision-Language Models for Improved Detection and Analysis of Harmful Algal Blooms (HAB)
 
 <img src="./images/header.tif" alt="Project Banner" width="800" height="400">
 
 ![Project Banner](./images/header.jpg)
 
+## Figure 1
+<img src="./images/figure1.emf" alt="Figure 1: Detailed analysis example" width="800" height="400">
+
 ## Summary
 
 This repository contains data for VLM-HAB dataset. all The images are size:  1000*1000
 
-Key features:
-- [Feature 1]
-- [Feature 2]
-- [Feature 3]
+Paper link: soon
 
 
 
