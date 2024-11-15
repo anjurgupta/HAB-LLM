@@ -5,9 +5,7 @@
 
 <img src="./img/abstract.jpg" alt="Project Banner" width="800">
 
-*This repository contains data for the VLM-HAB dataset.*  
-Paper link: Coming soon.
-
+*This repository contains data and the code for replicating the results.  
 </div>
 
 
