@@ -5,7 +5,7 @@
 ![Project Banner](./images/header.jpg)
 
 ## Figure 1
-<img src="./img/figure1.emf" alt="Figure 1: Detailed analysis example" width="800" height="400">
+<img src="./abstract.jpg" alt="Figure 1:   dataset overview" width="800" height="400">
 
 ## Summary
 
