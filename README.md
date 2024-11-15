@@ -4,10 +4,11 @@
 **By: Dr. Anju R. Gupta and Jamal Ansary**
 
 </div>
-<img src="./img/abstract.jpg" alt="Project Banner" width="800">
-This repository contains data for the VLM-HAB dataset. 
 
-Paper link: Coming soon.  
+<img src="./img/abstract.jpg" alt="Project Banner" width="800">
+
+*This repository contains dataset and the code for replicating the resuslts of this study.*
+.*Paper link.*: Coming soon.
 
 
 
