@@ -1,0 +1,28 @@
+{
+    "image_name": "img_26",
+    "analysis": {
+        "EnvironmentalConditions": {
+            "WaterType": "Freshwater",
+            "WaterBody": "Lake",
+            "WaterClarity": "Turbid"
+        },
+        "AlgaeCharacteristics": {
+            "Color": "Green",
+            "GrowthForm": "Planktonic",
+            "Density": "Bloom"
+        },
+        "HumanImpact": "high"
+    },
+    "assessment": {
+        "reason": "Substantial algal bloom. Significant areas show greenish water discoloration"
+    },
+    "annotation": {
+        "format": "x1,y1,x2,y2",
+        "coordinates": [
+            11,
+            120,
+            1001,
+            1001
+        ]
+    }
+}

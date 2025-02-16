@@ -2,7 +2,7 @@
     "image_name": "img_272",
     "analysis": {
         "EnvironmentalConditions": {
-            "WaterType": "Freshwater",  // Adjusted based on the "River"
+            "WaterType": "Freshwater", 
             "WaterBody": "River",
             "WaterClarity": "Unknown"
         },
@@ -14,7 +14,7 @@
         "HumanImpact": "High"
     },
     "assessment": {
-        "reason": "The image shows a dense algal bloom in what it is a river or canal system, indicating significant human impact and high algae density."
+        "reason": " dense algal bloom in what it is a river or canal system, indicating significant human impact and high algae density."
     },
     "annotation": {
         "format": "x1,y1,x2,y2",

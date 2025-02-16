@@ -1,0 +1,28 @@
+{
+    "image_name": "img_188",
+    "analysis": {
+        "EnvironmentalConditions": {
+            "WaterType": "Brackish",
+            "WaterBody": "Ocean",
+            "WaterClarity": "Turbid"
+        },
+        "AlgaeCharacteristics": {
+            "Color": "Green",
+            "GrowthForm": "Planktonic",
+            "Density": "Bloom"
+        },
+        "HumanImpact": "high"
+    },
+    "assessment": {
+        "reason": "Significant presence of green coloration observed in the water, indicating the presence of algae  "
+    },
+    "annotation": {
+        "format": "x1,y1,x2,y2",
+        "coordinates": [
+            237,
+            159,
+            1001,
+            739
+        ]
+    }
+}

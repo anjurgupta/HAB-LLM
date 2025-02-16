@@ -1,0 +1,28 @@
+{
+    "image_name": "img_16",
+    "analysis": {
+        "EnvironmentalConditions": {
+            "WaterType": "Freshwater",
+            "WaterBody": "Lake",
+            "WaterClarity": "Turbid"
+        },
+        "AlgaeCharacteristics": {
+            "Color": "Green",
+            "GrowthForm": "Planktonic",
+            "Density": "Bloom"
+        },
+        "HumanImpact": "high"
+    },
+    "assessment": {
+        "reason": "Large, uniform green patches visible across water surface. Widespread algae presence "
+    },
+    "annotation": {
+        "format": "x1,y1,x2,y2",
+        "coordinates": [
+            1,
+            73,
+            1001,
+            1001
+        ]
+    }
+}

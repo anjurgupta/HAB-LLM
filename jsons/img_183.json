@@ -1,0 +1,28 @@
+{
+    "image_name": "img_183",
+    "analysis": {
+        "EnvironmentalConditions": {
+            "WaterType": "Freshwater",
+            "WaterBody": "Lake",
+            "WaterClarity": "Turbid"
+        },
+        "AlgaeCharacteristics": {
+            "Color": "Green",
+            "GrowthForm": "Planktonic",
+            "Density": "Bloom"
+        },
+        "HumanImpact": "high"
+    },
+    "assessment": {
+        "reason": "Significant area of green coloration observed in the water, indicating the presence of algae"
+    },
+    "annotation": {
+        "format": "x1,y1,x2,y2",
+        "coordinates": [
+            1,
+            55,
+            1001,
+            999
+        ]
+    }
+}

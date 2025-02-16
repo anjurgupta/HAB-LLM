@@ -1,0 +1,28 @@
+{
+    "image_name": "img_269",
+    "analysis": {
+        "EnvironmentalConditions": {
+            "WaterType": "Saltwater",
+            "WaterBody": "Ocean",
+            "WaterClarity": "Turbid"
+        },
+        "AlgaeCharacteristics": {
+            "Color": "Green",
+            "GrowthForm": "Planktonic",
+            "Density": "Bloom"
+        },
+        "HumanImpact": "high"
+    },
+    "assessment": {
+        "reason": "Discoloration with widespread greenish hues indicates algae coverage"
+    },
+    "annotation": {
+        "format": "x1,y1,x2,y2",
+        "coordinates": [
+            20,
+            178,
+            1001,
+            1001
+        ]
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "image_name": "img_74",
+    "analysis": {
+        "EnvironmentalConditions": {
+            "WaterType": "Freshwater",
+            "WaterBody": "Lake",
+            "WaterClarity": "Turbid"
+        },
+        "AlgaeCharacteristics": {
+            "Color": "Green",
+            "GrowthForm": "Planktonic",
+            "Density": "Bloom"
+        },
+        "HumanImpact": "high"
+    },
+    "assessment": {
+        "reason": "significant areas of green water, indicating a substantial presence of algae. The coverage is extensive across the observable water body. The vibrant color intensity is observed."
+    },
+    "annotation": {
+        "format": "x1,y1,x2,y2",
+        "coordinates": [
+            5,
+            200,
+            999,
+            741
+        ]
+    }
+}

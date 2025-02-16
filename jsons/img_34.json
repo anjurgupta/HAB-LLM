@@ -1,0 +1,28 @@
+{
+    "image_name": "img_34",
+    "analysis": {
+        "EnvironmentalConditions": {
+            "WaterType": "Saltwater",
+            "WaterBody": "Lake",
+            "WaterClarity": "Turbid"
+        },
+        "AlgaeCharacteristics": {
+            "Color": "Green",
+            "GrowthForm": "Planktonic",
+            "Density": "Bloom"
+        },
+        "HumanImpact": "high"
+    },
+    "assessment": {
+        "reason": "area of discolored water, indicating algae growth. The greenish tint is visible, some layering in the water."
+    },
+    "annotation": {
+        "format": "x1,y1,x2,y2",
+        "coordinates": [
+            1,
+            52,
+            999,
+            823
+        ]
+    }
+}

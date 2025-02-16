@@ -1,0 +1,28 @@
+{
+    "image_name": "img_45",
+    "analysis": {
+        "EnvironmentalConditions": {
+            "WaterType": "Freshwater",
+            "WaterBody": "Lake",
+            "WaterClarity": "Turbid"
+        },
+        "AlgaeCharacteristics": {
+            "Color": "Brown",
+            "GrowthForm": "Planktonic",
+            "Density": "Moderate"
+        },
+        "HumanImpact": "Moderate"
+    },
+    "assessment": {
+        "reason": "Algae coverage more significant than normal, but not extreme"
+    },
+    "annotation": {
+        "format": "x1,y1,x2,y2",
+        "coordinates": [
+            1,
+            212,
+            1001,
+            1001
+        ]
+    }
+}

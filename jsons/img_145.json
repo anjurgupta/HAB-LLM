@@ -1,0 +1,28 @@
+{
+    "image_name": "img_145",
+    "analysis": {
+        "EnvironmentalConditions": {
+            "WaterType": "Brackish",
+            "WaterBody": "Pond",
+            "WaterClarity": "Turbid"
+        },
+        "AlgaeCharacteristics": {
+            "Color": "Green",
+            "GrowthForm": "Planktonic",
+            "Density": "Bloom"
+        },
+        "HumanImpact": "low"
+    },
+    "assessment": {
+        "reason": "small amount of green coloration observed in the water on the edge"
+    },
+    "annotation": {
+        "format": "x1,y1,x2,y2",
+        "coordinates": [
+            4,
+            164,
+            819,
+            1001
+        ]
+    }
+}

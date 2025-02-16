@@ -1,0 +1,28 @@
+{
+    "image_name": "img_231",
+    "analysis": {
+        "EnvironmentalConditions": {
+            "WaterType": "Freshwater",
+            "WaterBody": "Pond",
+            "WaterClarity": "Murky"
+        },
+        "AlgaeCharacteristics": {
+            "Color": "Green",
+            "GrowthForm": "Mat-forming",
+            "Density": "Bloom"
+        },
+        "HumanImpact": "moderate"
+    },
+    "assessment": {
+        "reason": "The water shows green coverage, indicating the presence of algae"
+    },
+    "annotation": {
+        "format": "x1,y1,x2,y2",
+        "coordinates": [
+            1,
+            405,
+            1001,
+            1001
+        ]
+    }
+}

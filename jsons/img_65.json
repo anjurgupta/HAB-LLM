@@ -1,0 +1,28 @@
+{
+    "image_name": "img_65",
+    "analysis": {
+        "EnvironmentalConditions": {
+            "WaterType": "Freshwater",
+            "WaterBody": "River",
+            "WaterClarity": "Murky"
+        },
+        "AlgaeCharacteristics": {
+            "Color": "Green",
+            "GrowthForm": "Planktonic",
+            "Density": "Bloom"
+        },
+        "HumanImpact": "high"
+    },
+    "assessment": {
+        "reason": "High algae presence. Significant green tint with extensive coverage"
+    },
+    "annotation": {
+        "format": "x1,y1,x2,y2",
+        "coordinates": [
+            1,
+            1,
+            999,
+            999
+        ]
+    }
+}

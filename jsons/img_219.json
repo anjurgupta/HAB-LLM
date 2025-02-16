@@ -1,0 +1,28 @@
+{
+    "image_name": "img_219",
+    "analysis": {
+        "EnvironmentalConditions": {
+            "WaterType": "Saltwater",
+            "WaterBody": "Ocean",
+            "WaterClarity": "Turbid"
+        },
+        "AlgaeCharacteristics": {
+            "Color": "Green",
+            "GrowthForm": "Mat-forming",
+            "Density": "Bloom"
+        },
+        "HumanImpact": "moderate"
+    },
+    "assessment": {
+        "reason": "presence of bright green algae along the shoreline, covering a large area."
+    },
+    "annotation": {
+        "format": "x1,y1,x2,y2",
+        "coordinates": [
+            27,
+            176,
+            1001,
+            1001
+        ]
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "image_name": "img_93",
+    "analysis": {
+        "EnvironmentalConditions": {
+            "WaterType": "Freshwater",
+            "WaterBody": "Pond",
+            "WaterClarity": "Turbid"
+        },
+        "AlgaeCharacteristics": {
+            "Color": "Blue-green",
+            "GrowthForm": "Mat-forming",
+            "Density": "Bloom"
+        },
+        "HumanImpact": "low"
+    },
+    "assessment": {
+        "reason": "Water near the edges shows some green coloration, indicating algae growth"
+    },
+    "annotation": {
+        "format": "x1,y1,x2,y2",
+        "coordinates": [
+            1,
+            217,
+            1001,
+            871
+        ]
+    }
+}

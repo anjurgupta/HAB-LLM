@@ -1,0 +1,28 @@
+{
+    "image_name": "img_208",
+    "analysis": {
+        "EnvironmentalConditions": {
+            "WaterType": "Freshwater",
+            "WaterBody": "Pond",
+            "WaterClarity": "Murky"
+        },
+        "AlgaeCharacteristics": {
+            "Color": "Green",
+            "GrowthForm": "Mat-forming",
+            "Density": "Dense"
+        },
+        "HumanImpact": "Moderate"
+    },
+    "assessment": {
+        "reason": "The water surface shows extensive coverage of green algae. The majority of the water around the fountain appears to be affected, with only a small area in the center being less impacted. "
+    },
+    "annotation": {
+        "format": "x1,y1,x2,y2",
+        "coordinates": [
+            15,
+            369,
+            1001,
+            1001
+        ]
+    }
+}

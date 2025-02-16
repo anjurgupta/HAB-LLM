@@ -1,0 +1,28 @@
+{
+    "image_name": "img_96",
+    "analysis": {
+        "EnvironmentalConditions": {
+            "WaterType": "Freshwater",
+            "WaterBody": "Pond",
+            "WaterClarity": "Turbid"
+        },
+        "AlgaeCharacteristics": {
+            "Color": "Green",
+            "GrowthForm": "Mat-forming",
+            "Density": "Bloom"
+        },
+        "HumanImpact": "Moderate"
+    },
+    "assessment": {
+        "reason": "Water has varying levels of green coverage, indicating algae growth is not uniform"
+    },
+    "annotation": {
+        "format": "x1,y1,x2,y2",
+        "coordinates": [
+            8,
+            460,
+            1001,
+            1001
+        ]
+    }
+}

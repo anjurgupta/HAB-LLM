@@ -1,0 +1,28 @@
+{
+    "image_name": "img_227",
+    "analysis": {
+        "EnvironmentalConditions": {
+            "WaterType": "Brackish",
+            "WaterBody": "Estuary",
+            "WaterClarity": "Turbid"
+        },
+        "AlgaeCharacteristics": {
+            "Color": "Green",
+            "GrowthForm": "Planktonic",
+            "Density": "Moderate"
+        },
+        "HumanImpact": "high"
+    },
+    "assessment": {
+        "reason": "Widespread green coloration observed in the water, indicating algal growth "
+    },
+    "annotation": {
+        "format": "x1,y1,x2,y2",
+        "coordinates": [
+            9,
+            16,
+            1001,
+            1001
+        ]
+    }
+}

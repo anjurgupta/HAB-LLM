@@ -1,0 +1,28 @@
+{
+    "image_name": "img_241",
+    "analysis": {
+        "EnvironmentalConditions": {
+            "WaterType": "Saltwater",
+            "WaterBody": "Ocean",
+            "WaterClarity": "Turbid"
+        },
+        "AlgaeCharacteristics": {
+            "Color": "Green",
+            "GrowthForm": "Planktonic",
+            "Density": "Bloom"
+        },
+        "HumanImpact": "high"
+    },
+    "assessment": {
+        "reason": "Significant discoloration of the water, indicative of high algae concentration"
+    },
+    "annotation": {
+        "format": "x1,y1,x2,y2",
+        "coordinates": [
+            11,
+            9,
+            1001,
+            1001
+        ]
+    }
+}

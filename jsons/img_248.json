@@ -1,0 +1,28 @@
+{
+    "image_name": "img_248",
+    "analysis": {
+        "EnvironmentalConditions": {
+            "WaterType": "Brackish",
+            "WaterBody": "Ocean",
+            "WaterClarity": "Turbid"
+        },
+        "AlgaeCharacteristics": {
+            "Color": "Green",
+            "GrowthForm": "Planktonic",
+            "Density": "Moderate"
+        },
+        "HumanImpact": "high"
+    },
+    "assessment": {
+        "reason": "significant Algae coverage across an area of the water"
+    },
+    "annotation": {
+        "format": "x1,y1,x2,y2",
+        "coordinates": [
+            7,
+            73,
+            1001,
+            1001
+        ]
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "image_name": "img_99",
+    "analysis": {
+        "EnvironmentalConditions": {
+            "WaterType": "Freshwater",
+            "WaterBody": "Lake",
+            "WaterClarity": "Murky"
+        },
+        "AlgaeCharacteristics": {
+            "Color": "Green",
+            "GrowthForm": "Mat-forming",
+            "Density": "Bloom"
+        },
+        "HumanImpact": "high"
+    },
+    "assessment": {
+        "reason": "Large area of water displays greenish tint with significant, extensive, and dense green coverage in some areas, indicating substantial algae growth. "
+    },
+    "annotation": {
+        "format": "x1,y1,x2,y2",
+        "coordinates": [
+            5,
+            85,
+            624,
+            999
+        ]
+    }
+}

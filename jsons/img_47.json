@@ -1,0 +1,28 @@
+{
+    "image_name": "img_47",
+    "analysis": {
+        "EnvironmentalConditions": {
+            "WaterType": "Brackish",
+            "WaterBody": "Estuary",
+            "WaterClarity": "Turbid"
+        },
+        "AlgaeCharacteristics": {
+            "Color": "Green",
+            "GrowthForm": "Planktonic",
+            "Density": "Bloom"
+        },
+        "HumanImpact": "high"
+    },
+    "assessment": {
+        "reason": "Extensive algal bloom. Widespread green coverage visible in water"
+    },
+    "annotation": {
+        "format": "x1,y1,x2,y2",
+        "coordinates": [
+            85,
+            106,
+            1001,
+            993
+        ]
+    }
+}

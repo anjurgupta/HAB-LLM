@@ -1,0 +1,28 @@
+{
+    "image_name": "img_108",
+    "analysis": {
+        "EnvironmentalConditions": {
+            "WaterType": "Saltwater",
+            "WaterBody": "Ocean",
+            "WaterClarity": "Turbid"
+        },
+        "AlgaeCharacteristics": {
+            "Color": "Green",
+            "GrowthForm": "Planktonic",
+            "Density": "Bloom"
+        },
+        "HumanImpact": "Moderate"
+    },
+    "assessment": {
+        "reason": "High-intensity green coloration widespread across significant area of water, indicating extensive and dense algae growth, with a severe level of bloom coverage."
+    },
+    "annotation": {
+        "format": "x1,y1,x2,y2",
+        "coordinates": [
+            52,
+            48,
+            1001,
+            1001
+        ]
+    }
+}

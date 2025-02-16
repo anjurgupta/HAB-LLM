@@ -1,0 +1,28 @@
+{
+    "image_name": "img_62",
+    "analysis": {
+        "EnvironmentalConditions": {
+            "WaterType": "Freshwater",
+            "WaterBody": "Lake",
+            "WaterClarity": "Turbid"
+        },
+        "AlgaeCharacteristics": {
+            "Color": "Green",
+            "GrowthForm": "Planktonic",
+            "Density": "Moderate"
+        },
+        "HumanImpact": "high"
+    },
+    "assessment": {
+        "reason": "Moderate algae presence. Noticeable areas of algae alongside large sections of clear water"
+    },
+    "annotation": {
+        "format": "x1,y1,x2,y2",
+        "coordinates": [
+            53,
+            165,
+            1001,
+            1001
+        ]
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "image_name": "img_138",
+    "analysis": {
+        "EnvironmentalConditions": {
+            "WaterType": "Freshwater",
+            "WaterBody": "Lake",
+            "WaterClarity": "Turbid"
+        },
+        "AlgaeCharacteristics": {
+            "Color": "Green",
+            "GrowthForm": "Planktonic",
+            "Density": "Bloom"
+        },
+        "HumanImpact": "high"
+    },
+    "assessment": {
+        "reason": "Extensive coverage of green algae blankets the water body, indicating extreme growth and suggesting a severe algal bloom "
+    },
+    "annotation": {
+        "format": "x1,y1,x2,y2",
+        "coordinates": [
+            11,
+            100,
+            1001,
+            1001
+        ]
+    }
+}

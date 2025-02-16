@@ -1,0 +1,28 @@
+{
+    "image_name": "img_97",
+    "analysis": {
+        "EnvironmentalConditions": {
+            "WaterType": "Freshwater",
+            "WaterBody": "River",
+            "WaterClarity": "Murky"
+        },
+        "AlgaeCharacteristics": {
+            "Color": "Green",
+            "GrowthForm": "Planktonic",
+            "Density": "Dense"
+        },
+        "HumanImpact": "high"
+    },
+    "assessment": {
+        "reason": "Large areas of green water indicate significant algae growth"
+    },
+    "annotation": {
+        "format": "x1,y1,x2,y2",
+        "coordinates": [
+            0,
+            205,
+            996,
+            816
+        ]
+    }
+}

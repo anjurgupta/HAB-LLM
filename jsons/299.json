@@ -2,7 +2,7 @@
     "image_name": "img_278",
     "analysis": {
         "EnvironmentalConditions": {
-            "WaterType": "Saltwater",  // Based on the "Ocean"
+            "WaterType": "Saltwater",  
             "WaterBody": "Ocean",
             "WaterClarity": "Unknown"
         },
@@ -14,7 +14,7 @@
         "HumanImpact": "high"
     },
     "assessment": {
-        "reason": "The image shows a significant red tide or harmful algal bloom (HAB) in coastal waters, indicated by the intense red coloration. "
+        "reason": "significant red tide or harmful algal bloom in coastal waters, indicated by the intense red coloration. "
     },
     "annotation": {
         "format": "x1,y1,x2,y2",

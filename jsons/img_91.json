@@ -1,0 +1,28 @@
+{
+    "image_name": "img_91",
+    "analysis": {
+        "EnvironmentalConditions": {
+            "WaterType": "Brackish",
+            "WaterBody": "Pond",
+            "WaterClarity": "Turbid"
+        },
+        "AlgaeCharacteristics": {
+            "Color": "Green",
+            "GrowthForm": "Planktonic",
+            "Density": "Bloom"
+        },
+        "HumanImpact": "Moderate"
+    },
+    "assessment": {
+        "reason": "Water heavily covered in thick layer of green algae"
+    },
+    "annotation": {
+        "format": "x1,y1,x2,y2",
+        "coordinates": [
+            6,
+            234,
+            1001,
+            1001
+        ]
+    }
+}

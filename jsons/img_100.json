@@ -1,0 +1,28 @@
+{
+    "image_name": "img_100",
+    "analysis": {
+        "EnvironmentalConditions": {
+            "WaterType": "Freshwater",
+            "WaterBody": "Pond",
+            "WaterClarity": "Murky"
+        },
+        "AlgaeCharacteristics": {
+            "Color": "Green",
+            "GrowthForm": "Mat-forming",
+            "Density": "Dense"
+        },
+        "HumanImpact": "Moderate"
+    },
+    "assessment": {
+        "reason": "Water surface largely obscured by extensive and dense green coverage, leaving limited visible areas, indicating severe algae bloom."
+    },
+    "annotation": {
+        "format": "x1,y1,x2,y2",
+        "coordinates": [
+            1,
+            542,
+            1001,
+            1001
+        ]
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "image_name": "img_158",
+    "analysis": {
+        "EnvironmentalConditions": {
+            "WaterType": "Freshwater",
+            "WaterBody": "Pond",
+            "WaterClarity": "Murky"
+        },
+        "AlgaeCharacteristics": {
+            "Color": "Green",
+            "GrowthForm": "Planktonic",
+            "Density": "Bloom"
+        },
+        "HumanImpact": "Moderate"
+    },
+    "assessment": {
+        "reason": "Significant discoloration observed in the water, primarily a vibrant green color, indicating the presence of algae"
+    },
+    "annotation": {
+        "format": "x1,y1,x2,y2",
+        "coordinates": [
+            1,
+            592,
+            1001,
+            1001
+        ]
+    }
+}

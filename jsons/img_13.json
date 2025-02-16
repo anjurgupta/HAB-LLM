@@ -1,0 +1,28 @@
+{
+    "image_name": "img_13",
+    "analysis": {
+        "EnvironmentalConditions": {
+            "WaterType": "Freshwater",
+            "WaterBody": "River",
+            "WaterClarity": "Turbid"
+        },
+        "AlgaeCharacteristics": {
+            "Color": "Green",
+            "GrowthForm": "Planktonic",
+            "Density": "Bloom"
+        },
+        "HumanImpact": "high"
+    },
+    "assessment": {
+        "reason":"significant green coloration in the water, indicating a high presence of algae. The coverage appears extensive, especially in the central part of the water body "
+    },
+    "annotation": {
+        "format": "x1,y1,x2,y2",
+        "coordinates": [
+            1,
+            18,
+            835,
+            1001
+        ]
+    }
+}

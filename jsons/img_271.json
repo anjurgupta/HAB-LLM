@@ -2,7 +2,7 @@
     "image_name": "img_271",
     "analysis": {
         "EnvironmentalConditions": {
-            "WaterType": "Saltwater",  // Adjusted based on the "Ocean" water body
+            "WaterType": "Saltwater", 
             "WaterBody": "Ocean",
             "WaterClarity": "Unknown"
         },

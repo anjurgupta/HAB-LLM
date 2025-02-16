@@ -1,0 +1,28 @@
+{
+    "image_name": "img_125",
+    "analysis": {
+        "EnvironmentalConditions": {
+            "WaterType": "Freshwater",
+            "WaterBody": "Lake",
+            "WaterClarity": "Turbid"
+        },
+        "AlgaeCharacteristics": {
+            "Color": "Green",
+            "GrowthForm": "Planktonic",
+            "Density": "Bloom"
+        },
+        "HumanImpact": "high"
+    },
+    "assessment": {
+        "reason": "Large area of water exhibits uniform greenish tint, indicating extremely high concentrations of algae, with extensive coverage dominating the water's surface"
+    },
+    "annotation": {
+        "format": "x1,y1,x2,y2",
+        "coordinates": [
+            1,
+            340,
+            1001,
+            1001
+        ]
+    }
+}

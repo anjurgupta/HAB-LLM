@@ -2,7 +2,7 @@
     "image_name": "img_277",
     "analysis": {
         "EnvironmentalConditions": {
-            "WaterType": "Saltwater",  // Based on the "Ocean"
+            "WaterType": "Saltwater",  
             "WaterBody": "Ocean",
             "WaterClarity": "Unknown"
         },
@@ -14,7 +14,7 @@
         "HumanImpact": "low"
     },
     "assessment": {
-        "reason": "he image shows a reddish-brown discoloration along the shoreline, indicative of a red tide or harmful algal bloom "
+        "reason": "reddish-brown discoloration along the shoreline, indicative of a red tide or harmful algal bloom "
     },
     "annotation": {
         "format": "x1,y1,x2,y2",

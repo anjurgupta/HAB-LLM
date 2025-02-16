@@ -1,0 +1,28 @@
+{
+    "image_name": "img_69",
+    "analysis": {
+        "EnvironmentalConditions": {
+            "WaterType": "Freshwater",
+            "WaterBody": "River",
+            "WaterClarity": "Turbid"
+        },
+        "AlgaeCharacteristics": {
+            "Color": "Green",
+            "GrowthForm": "Mat-forming",
+            "Density": "Moderate"
+        },
+        "HumanImpact": "low"
+    },
+    "assessment": {
+        "reason": "Visible areas of green algae along water's edge"
+    },
+    "annotation": {
+        "format": "x1,y1,x2,y2",
+        "coordinates": [
+            306,
+            308,
+            1000,
+            1001
+        ]
+    }
+}

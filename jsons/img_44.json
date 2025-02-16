@@ -1,0 +1,28 @@
+{
+    "image_name": "img_44",
+    "analysis": {
+        "EnvironmentalConditions": {
+            "WaterType": "Brackish",
+            "WaterBody": "Lake",
+            "WaterClarity": "Turbid"
+        },
+        "AlgaeCharacteristics": {
+            "Color": "Brown",
+            "GrowthForm": "Planktonic",
+            "Density": "Moderate"
+        },
+        "HumanImpact": "Moderate"
+    },
+    "assessment": {
+        "reason": "Mild to moderate algal presence. Noticeable dark areas visible in water. Some clearer patches evident. "
+    },
+    "annotation": {
+        "format": "x1,y1,x2,y2",
+        "coordinates": [
+            261,
+            130,
+            1001,
+            1001
+        ]
+    }
+}

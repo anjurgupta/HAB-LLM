@@ -1,0 +1,28 @@
+{
+    "image_name": "img_176",
+    "analysis": {
+        "EnvironmentalConditions": {
+            "WaterType": "Freshwater",
+            "WaterBody": "Pond",
+            "WaterClarity": "Turbid"
+        },
+        "AlgaeCharacteristics": {
+            "Color": "Green",
+            "GrowthForm": "Planktonic",
+            "Density": "Dense"
+        },
+        "HumanImpact": "Moderate"
+    },
+    "assessment": {
+        "reason": "small area affected by green algae"
+    },
+    "annotation": {
+        "format": "x1,y1,x2,y2",
+        "coordinates": [
+            10,
+            6,
+            1001,
+            1001
+        ]
+    }
+}

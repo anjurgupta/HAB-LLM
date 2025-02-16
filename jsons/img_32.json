@@ -1,0 +1,28 @@
+{
+    "image_name": "img_32",
+    "analysis": {
+        "EnvironmentalConditions": {
+            "WaterType": "Brackish",
+            "WaterBody": "Lake",
+            "WaterClarity": "Turbid"
+        },
+        "AlgaeCharacteristics": {
+            "Color": "Green",
+            "GrowthForm": "Planktonic",
+            "Density": "Moderate"
+        },
+        "HumanImpact": "low"
+    },
+    "assessment": {
+        "reason": "shoreline is visible with small apparent algae coverage"
+    },
+    "annotation": {
+        "format": "x1,y1,x2,y2",
+        "coordinates": [
+            3,
+            286,
+            671,
+            1001
+        ]
+    }
+}

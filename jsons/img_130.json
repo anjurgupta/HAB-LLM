@@ -1,0 +1,28 @@
+{
+    "image_name": "img_130",
+    "analysis": {
+        "EnvironmentalConditions": {
+            "WaterType": "Freshwater",
+            "WaterBody": "Pond",
+            "WaterClarity": "Turbid"
+        },
+        "AlgaeCharacteristics": {
+            "Color": "Green",
+            "GrowthForm": "Mat-forming",
+            "Density": "Dense"
+        },
+        "HumanImpact": "low"
+    },
+    "assessment": {
+        "reason": "Noticeable greenish streaks and patches indicate presence of algae  at edge"
+    },
+    "annotation": {
+        "format": "x1,y1,x2,y2",
+        "coordinates": [
+            1,
+            134,
+            857,
+            864
+        ]
+    }
+}

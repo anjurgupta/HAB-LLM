@@ -1,0 +1,28 @@
+{
+    "image_name": "img_60",
+    "analysis": {
+        "EnvironmentalConditions": {
+            "WaterType": "Freshwater",
+            "WaterBody": "Pond",
+            "WaterClarity": "Turbid"
+        },
+        "AlgaeCharacteristics": {
+            "Color": "Green",
+            "GrowthForm": "Mat-forming",
+            "Density": "Dense"
+        },
+        "HumanImpact": "low"
+    },
+    "assessment": {
+        "reason": "small patches of green algae on water surface, with clear areas remaining."
+    },
+    "annotation": {
+        "format": "x1,y1,x2,y2",
+        "coordinates": [
+            1,
+            204,
+            1001,
+            1001
+        ]
+    }
+}

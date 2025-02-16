@@ -1,0 +1,28 @@
+{
+    "image_name": "img_180",
+    "analysis": {
+        "EnvironmentalConditions": {
+            "WaterType": "Saltwater",
+            "WaterBody": "Ocean",
+            "WaterClarity": "Clear"
+        },
+        "AlgaeCharacteristics": {
+            "Color": "Green",
+            "GrowthForm": "Mat-forming",
+            "Density": "Sparse"
+        },
+        "HumanImpact": "low"
+    },
+    "assessment": {
+        "reason": "noticeable green algae growth primarily in the intertidal areas over the rocks. "
+    },
+    "annotation": {
+        "format": "x1,y1,x2,y2",
+        "coordinates": [
+            1,
+            504,
+            727,
+            963
+        ]
+    }
+}

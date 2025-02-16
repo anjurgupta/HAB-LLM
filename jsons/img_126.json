@@ -1,0 +1,28 @@
+{
+    "image_name": "img_126",
+    "analysis": {
+        "EnvironmentalConditions": {
+            "WaterType": "Freshwater",
+            "WaterBody": "Lake",
+            "WaterClarity": "Turbid"
+        },
+        "AlgaeCharacteristics": {
+            "Color": "Green",
+            "GrowthForm": "Mat-forming",
+            "Density": "Dense"
+        },
+        "HumanImpact": "low"
+    },
+    "assessment": {
+        "reason": "Significant, dense patches of algae blanket the water's surface, with vibrant green coloration indicating exceptionally high concentrations of algal growth"
+    },
+    "annotation": {
+        "format": "x1,y1,x2,y2",
+        "coordinates": [
+            15,
+            491,
+            1001,
+            1001
+        ]
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "image_name": "img_137",
+    "analysis": {
+        "EnvironmentalConditions": {
+            "WaterType": "Freshwater",
+            "WaterBody": "Pond",
+            "WaterClarity": "Turbid"
+        },
+        "AlgaeCharacteristics": {
+            "Color": "Green",
+            "GrowthForm": "Mat-forming",
+            "Density": "Bloom"
+        },
+        "HumanImpact": "Moderate"
+    },
+    "assessment": {
+        "reason": "extensive coverage of algae across the water surface. Large areas appear dense and green. "
+    },
+    "annotation": {
+        "format": "x1,y1,x2,y2",
+        "coordinates": [
+            6,
+            56,
+            1001,
+            1001
+        ]
+    }
+}

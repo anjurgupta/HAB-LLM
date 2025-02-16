@@ -1,0 +1,28 @@
+{
+    "image_name": "img_179",
+    "analysis": {
+        "EnvironmentalConditions": {
+            "WaterType": "Freshwater",
+            "WaterBody": "River",
+            "WaterClarity": "Turbid"
+        },
+        "AlgaeCharacteristics": {
+            "Color": "Green",
+            "GrowthForm": "Planktonic",
+            "Density": "Bloom"
+        },
+        "HumanImpact": "high"
+    },
+    "assessment": {
+        "reason": "significant presence of green discoloration in the water, indicating the presence of algae. The area affected appears to be large, covering substantial sections of the water body. "
+    },
+    "annotation": {
+        "format": "x1,y1,x2,y2",
+        "coordinates": [
+            1,
+            64,
+            1001,
+            921
+        ]
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "image_name": "img_256",
+    "analysis": {
+        "EnvironmentalConditions": {
+            "WaterType": "Freshwater",
+            "WaterBody": "Lake",
+            "WaterClarity": "Turbid"
+        },
+        "AlgaeCharacteristics": {
+            "Color": "Green",
+            "GrowthForm": "Planktonic",
+            "Density": "Moderate"
+        },
+        "HumanImpact": "high"
+    },
+    "assessment": {
+        "reason": "The brownish-green coloration indicates the presence of algae"
+    },
+    "annotation": {
+        "format": "x1,y1,x2,y2",
+        "coordinates": [
+            1,
+            329,
+            507,
+            1001
+        ]
+    }
+}

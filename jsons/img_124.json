@@ -1,0 +1,28 @@
+{
+    "image_name": "img_124",
+    "analysis": {
+        "EnvironmentalConditions": {
+            "WaterType": "Freshwater",
+            "WaterBody": "River",
+            "WaterClarity": "Turbid"
+        },
+        "AlgaeCharacteristics": {
+            "Color": "Green",
+            "GrowthForm": "Planktonic",
+            "Density": "Moderate"
+        },
+        "HumanImpact": "high"
+    },
+    "assessment": {
+        "reason": "Significant areas of green discoloration indicate substantial presence of algae, with extensive coverage affecting large areas of the water surface"
+    },
+    "annotation": {
+        "format": "x1,y1,x2,y2",
+        "coordinates": [
+            370,
+            126,
+            792,
+            999
+        ]
+    }
+}

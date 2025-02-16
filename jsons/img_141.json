@@ -1,0 +1,28 @@
+{
+    "image_name": "img_141",
+    "analysis": {
+        "EnvironmentalConditions": {
+            "WaterType": "Freshwater",
+            "WaterBody": "Pond",
+            "WaterClarity": "Turbid"
+        },
+        "AlgaeCharacteristics": {
+            "Color": "Green",
+            "GrowthForm": "Mat-forming",
+            "Density": "Moderate"
+        },
+        "HumanImpact": "low"
+    },
+    "assessment": {
+        "reason": "algae growth evident, characterized by dense green patches and widespread coverage"
+    },
+    "annotation": {
+        "format": "x1,y1,x2,y2",
+        "coordinates": [
+            10,
+            236,
+            1001,
+            1001
+        ]
+    }
+}

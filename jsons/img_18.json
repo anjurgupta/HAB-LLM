@@ -1,0 +1,28 @@
+{
+    "image_name": "img_18",
+    "analysis": {
+        "EnvironmentalConditions": {
+            "WaterType": "Freshwater",
+            "WaterBody": "Lake",
+            "WaterClarity": "Turbid"
+        },
+        "AlgaeCharacteristics": {
+            "Color": "Green",
+            "GrowthForm": "Planktonic",
+            "Density": "Bloom"
+        },
+        "HumanImpact": "high"
+    },
+    "assessment": {
+        "reason": "Significant algal bloom. Large areas of water show green discoloration. Extensive coverage with noticeable streaks. Consistent coloration indicates widespread algae growth"
+    },
+    "annotation": {
+        "format": "x1,y1,x2,y2",
+        "coordinates": [
+            19,
+            7,
+            986,
+            1001
+        ]
+    }
+}

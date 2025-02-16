@@ -1,0 +1,28 @@
+{
+    "image_name": "img_190",
+    "analysis": {
+        "EnvironmentalConditions": {
+            "WaterType": "Freshwater",
+            "WaterBody": "Pond",
+            "WaterClarity": "Murky"
+        },
+        "AlgaeCharacteristics": {
+            "Color": "Green",
+            "GrowthForm": "Mat-forming",
+            "Density": "Moderate"
+        },
+        "HumanImpact": "low"
+    },
+    "assessment": {
+        "reason": "small presence of green algae on the water surface. "
+    },
+    "annotation": {
+        "format": "x1,y1,x2,y2",
+        "coordinates": [
+            6,
+            3,
+            989,
+            821
+        ]
+    }
+}

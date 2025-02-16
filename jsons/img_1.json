@@ -1,0 +1,28 @@
+{
+    "image_name": "img_1",
+    "analysis": {
+        "EnvironmentalConditions": {
+            "WaterType": "Freshwater",
+            "WaterBody": "Pond",
+            "WaterClarity": "Turbid"
+        },
+        "AlgaeCharacteristics": {
+            "Color": "Green",
+            "GrowthForm": "Planktonic",
+            "Density": "Dense"
+        },
+        "HumanImpact": "Moderate"
+    },
+    "assessment": {
+        "reason": "Extensive bright green algal bloom covering large portion of water surface."
+    },
+    "annotation": {
+        "format": "x1,y1,x2,y2",
+        "coordinates": [
+            6,
+            22,
+            1001,
+            1001
+        ]
+    }
+}

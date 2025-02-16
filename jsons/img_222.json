@@ -1,0 +1,28 @@
+{
+    "image_name": "img_222",
+    "analysis": {
+        "EnvironmentalConditions": {
+            "WaterType": "Freshwater",
+            "WaterBody": "River",
+            "WaterClarity": "Turbid"
+        },
+        "AlgaeCharacteristics": {
+            "Color": "Green",
+            "GrowthForm": "Mat-forming",
+            "Density": "Bloom"
+        },
+        "HumanImpact": "Severe"
+    },
+    "assessment": {
+        "reason": "algae growth covering a large area of the water and surrounding shore. The green coverage is visible on the boat and the beach. "
+    },
+    "annotation": {
+        "format": "x1,y1,x2,y2",
+        "coordinates": [
+            10,
+            256,
+            1001,
+            1001
+        ]
+    }
+}

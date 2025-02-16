@@ -1,0 +1,28 @@
+{
+    "image_name": "img_105",
+    "analysis": {
+        "EnvironmentalConditions": {
+            "WaterType": "Freshwater",
+            "WaterBody": "Lake",
+            "WaterClarity": "Murky"
+        },
+        "AlgaeCharacteristics": {
+            "Color": "Green",
+            "GrowthForm": "Planktonic",
+            "Density": "Bloom"
+        },
+        "HumanImpact": "high"
+    },
+    "assessment": {
+        "reason": "Extensive green algae bloom covers large areas of water, dominating a considerable portion of the surface, with substantial coverage indicating a severe algae outbreak"
+    },
+    "annotation": {
+        "format": "x1,y1,x2,y2",
+        "coordinates": [
+            11,
+            249,
+            1001,
+            708
+        ]
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "image_name": "img_104",
+    "analysis": {
+        "EnvironmentalConditions": {
+            "WaterType": "Freshwater",
+            "WaterBody": "River",
+            "WaterClarity": "Turbid"
+        },
+        "AlgaeCharacteristics": {
+            "Color": "Green",
+            "GrowthForm": "Planktonic",
+            "Density": "Bloom"
+        },
+        "HumanImpact": "high"
+    },
+    "assessment": {
+        "reason": " significant areas of green discoloration in the water. The green discoloration covers large portions of the river. The water has a dense layer of green in some areas."
+    },
+    "annotation": {
+        "format": "x1,y1,x2,y2",
+        "coordinates": [
+            30,
+            11,
+            1001,
+            583
+        ]
+    }
+}

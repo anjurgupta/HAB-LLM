@@ -1,0 +1,28 @@
+{
+    "image_name": "img_33",
+    "analysis": {
+        "EnvironmentalConditions": {
+            "WaterType": "Freshwater",
+            "WaterBody": "Lake",
+            "WaterClarity": "Clear"
+        },
+        "AlgaeCharacteristics": {
+            "Color": "Green",
+            "GrowthForm": "Planktonic",
+            "Density": "Moderate"
+        },
+        "HumanImpact": "low"
+    },
+    "assessment": {
+        "reason": "shoreline is visible with small apparent algae coverage"
+    },
+    "annotation": {
+        "format": "x1,y1,x2,y2",
+        "coordinates": [
+            63,
+            280,
+            759,
+            1001
+        ]
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "image_name": "img_129",
+    "analysis": {
+        "EnvironmentalConditions": {
+            "WaterType": "Brackish",
+            "WaterBody": "Lake",
+            "WaterClarity": "Turbid"
+        },
+        "AlgaeCharacteristics": {
+            "Color": "Green",
+            "GrowthForm": "Planktonic",
+            "Density": "Bloom"
+        },
+        "HumanImpact": "high"
+    },
+    "assessment": {
+        "reason": "Significant extent of green coloration blankets the water, indicating a high level of algae growth, with extensive coverage appearing to span the majority of the water body"
+    },
+    "annotation": {
+        "format": "x1,y1,x2,y2",
+        "coordinates": [
+            80,
+            218,
+            1001,
+            1001
+        ]
+    }
+}
