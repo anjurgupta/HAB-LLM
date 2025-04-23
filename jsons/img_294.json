@@ -1,0 +1,26 @@
+{
+    "image_name": "img_300",
+    "analysis": {
+        "EnvironmentalConditions": {
+            "WaterBody": "Lake"
+        },
+        "AlgaeCharacteristics": {
+            "Color": "Green",
+            "GrowthForm": "Mat-forming",
+            "Density": "Dense"
+        },
+        "HumanImpact": "High"
+    },
+    "assessment": {
+        "reason": "large, dense bloom of green algae in a lake. some housees are visible"
+    },
+    "annotation": {
+        "format": "x1,y1,x2,y2",
+        "coordinates": [
+            6,
+            25,
+            615,
+            641
+        ]
+    }
+}

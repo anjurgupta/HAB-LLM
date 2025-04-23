@@ -1,27 +1,27 @@
 {
-    "image_name": "img_278",
+    "image_name": "img_279",
     "analysis": {
         "EnvironmentalConditions": {
-            "WaterType": "Saltwater",  
-            "WaterBody": "Ocean",
+            "WaterType": "Freshwater",
+            "WaterBody": "Lake",
             "WaterClarity": "Unknown"
         },
         "AlgaeCharacteristics": {
-            "Color": "Red",
+            "Color": "Green",
             "GrowthForm": "Planktonic",
             "Density": "Dense"
         },
-        "HumanImpact": "high"
+        "HumanImpact": "High"
     },
     "assessment": {
-        "reason": "significant red tide or harmful algal bloom in coastal waters, indicated by the intense red coloration. "
+        "reason": "severe algae bloom in area that appears to be a dam"
     },
     "annotation": {
         "format": "x1,y1,x2,y2",
         "coordinates": [
-            1,
-            69,
-            544,
+            4,
+            87,
+            486,
             641
         ]
     }

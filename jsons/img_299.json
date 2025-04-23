@@ -1,5 +1,5 @@
 {
-    "image_name": "img_277",
+    "image_name": "img_278",
     "analysis": {
         "EnvironmentalConditions": {
             "WaterType": "Saltwater",  
@@ -9,20 +9,20 @@
         "AlgaeCharacteristics": {
             "Color": "Red",
             "GrowthForm": "Planktonic",
-            "Density": "Moderate"
+            "Density": "Dense"
         },
-        "HumanImpact": "low"
+        "HumanImpact": "high"
     },
     "assessment": {
-        "reason": "reddish-brown discoloration along the shoreline, indicative of a red tide or harmful algal bloom "
+        "reason": "significant red tide or harmful algal bloom in coastal waters "
     },
     "annotation": {
         "format": "x1,y1,x2,y2",
         "coordinates": [
-            118,
-            325,
-            641,
-            606
+            1,
+            69,
+            544,
+            641
         ]
     }
 }

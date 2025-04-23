@@ -1,5 +1,5 @@
 {
-    "image_name": "img_279",
+    "image_name": "img_274",
     "analysis": {
         "EnvironmentalConditions": {
             "WaterType": "Freshwater",
@@ -14,15 +14,15 @@
         "HumanImpact": "High"
     },
     "assessment": {
-        "reason": "severe algae bloom in area"
+        "reason": "severe algal bloom in a recreational lake or marina area, with visible boats and structures"
     },
     "annotation": {
         "format": "x1,y1,x2,y2",
         "coordinates": [
             4,
-            87,
-            486,
-            641
+            121,
+            641,
+            604
         ]
     }
 }

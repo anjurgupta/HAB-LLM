@@ -1,0 +1,28 @@
+{
+    "image_name": "img_275",
+    "analysis": {
+        "EnvironmentalConditions": {
+            "WaterType": "Saltwater", 
+            "WaterBody": "Ocean",
+            "WaterClarity": "Unknown"
+        },
+        "AlgaeCharacteristics": {
+            "Color": "Red",
+            "GrowthForm": "Planktonic",
+            "Density": "Dense"
+        },
+        "HumanImpact": "Moderate"
+    },
+    "assessment": {
+        "reason": "intense red coloration in the water, which shows a severe red tide or harmful algal bloom "
+    },
+    "annotation": {
+        "format": "x1,y1,x2,y2",
+        "coordinates": [
+            1,
+            391,
+            641,
+            641
+        ]
+    }
+}
