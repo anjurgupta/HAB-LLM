@@ -14,7 +14,7 @@
         "HumanImpact": "high"
     },
     "assessment": {
-        "reason": "Noticeable discoloration observed in the water, particularly in lighter areas, indicating the presence of algae "
+        "reason": "Noticeable discoloration observed in the water, particularly in lighter areas, indicating the presence of algae"
     },
     "annotation": {
         "format": "x1,y1,x2,y2",

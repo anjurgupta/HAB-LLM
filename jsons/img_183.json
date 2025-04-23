@@ -14,7 +14,7 @@
         "HumanImpact": "high"
     },
     "assessment": {
-        "reason": "Significant area of green coloration observed in the water, indicating the presence of algae"
+        "reason": "Significant area of green coloration observed in the water, indicating the presence of algae. some human activity in background"
     },
     "annotation": {
         "format": "x1,y1,x2,y2",

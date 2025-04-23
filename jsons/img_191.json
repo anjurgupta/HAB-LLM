@@ -14,7 +14,7 @@
         "HumanImpact": "high"
     },
     "assessment": {
-        "reason": "Extensive algal blooms observed covering a large area of the water, with significant green color intensity indicating high chlorophyll concentration"
+        "reason": "Extensive algal blooms observed covering a large area of the water, with significant green color intensity indicating high chlorophyll concentration.farmland visible"
     },
     "annotation": {
         "format": "x1,y1,x2,y2",

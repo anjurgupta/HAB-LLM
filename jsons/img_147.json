@@ -14,7 +14,7 @@
         "HumanImpact": "high"
     },
     "assessment": {
-        "reason": "Significant algae presence evident on the water's surface, characterized by extensive green patches"
+        "reason": "Significant algae presence evident on the water's surface, characterized by extensive green patches. city is shown with industrial complex"
     },
     "annotation": {
         "format": "x1,y1,x2,y2",

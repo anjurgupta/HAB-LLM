@@ -14,7 +14,7 @@
         "HumanImpact": "moderate"
     },
     "assessment": {
-        "reason": "The water shows green coverage, indicating the presence of algae"
+        "reason": "The water shows green coverage, indicating the presence of algae. a house can be seen"
     },
     "annotation": {
         "format": "x1,y1,x2,y2",

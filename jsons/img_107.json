@@ -14,7 +14,7 @@
         "HumanImpact": "high"
     },
     "assessment": {
-        "reason": "Widespread and uniform green coloration blankets entire water surface, with no visible clear areas, indicating a complete and severe algae bloom coverage"
+        "reason": "Widespread and uniform green coloration blankets entire water surface, with no visible clear areas, indicating a complete and severe algae bloom coverage. a ship id docked in shore"
     },
     "annotation": {
         "format": "x1,y1,x2,y2",
