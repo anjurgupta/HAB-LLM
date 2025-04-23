@@ -14,7 +14,7 @@
         "HumanImpact": "high"
     },
     "assessment": {
-        "reason": "Substantial algal bloom. Significant green coverage visible in water"
+        "reason": "Substantial algal bloom. Significant green coverage visible in water. farm lands visible"
     },
     "annotation": {
         "format": "x1,y1,x2,y2",

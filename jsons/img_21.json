@@ -14,7 +14,7 @@
         "HumanImpact": "Moderate"
     },
     "assessment": {
-        "reason": "visible algae coverage on water surface"
+        "reason": "visible algae coverage on water surface with a boat present"
     },
     "annotation": {
         "format": "x1,y1,x2,y2",
