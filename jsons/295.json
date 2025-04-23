@@ -14,7 +14,7 @@
         "HumanImpact": "High"
     },
     "assessment": {
-        "reason": "The level of influence on humans living in nearby areas is assessed as High. severe algal bloom in a recreational lake or marina area, with visible boats and structures, indicating direct human interaction with this water body."
+        "reason": "severe algal bloom in a recreational lake or marina area, with visible boats and structures, indicating direct human interaction with this water."
     },
     "annotation": {
         "format": "x1,y1,x2,y2",

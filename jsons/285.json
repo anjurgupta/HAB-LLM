@@ -14,7 +14,7 @@
         "HumanImpact": "High"
     },
     "assessment": {
-        "reason": "dense red tide in the ocean, indicating a harmful algal bloom"
+        "reason": "dense red tide in the ocean, showing a harmful algal bloom"
     },
     "annotation": {
         "format": "x1,y1,x2,y2",

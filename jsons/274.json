@@ -14,7 +14,7 @@
         "HumanImpact": "low"
     },
     "assessment": {
-        "reason": "Tred tide or harmful algal bloom in coastal waters"
+        "reason": "red tide or harmful algal bloom in coastal waters"
     },
     "annotation": {
         "format": "x1,y1,x2,y2",
